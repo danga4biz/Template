@@ -421,3 +421,11 @@ footer {
     color:#444;
   }
 }
+
+#outerWrapper 
+	{
+	background: #CEFFFF;
+        margin: 2px auto;
+/*min-width: 960px;*/
+        width: 1024px;
+	}
