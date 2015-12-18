@@ -427,15 +427,14 @@ footer {
 	{
 	background: #CEFFFF;
         margin: 2px auto;
-/*min-width: 960px;*/
-        width: 1024px;
+	min-width: 960px;
 	}
 
  #topLineWrapper
 	{
 	float: left; 
-       	background: {color:topLineWrapperBGColor};
-/*	background: #B9DAF5; */
+/*       	background: {color:topLineWrapperBGColor};*/
+	background: #B9DAF5; 
 /*			color: $(topLineWrapper.TXT.Color);*/
 /*			color: #FFFFFF; */
 /*			clear: both; */
