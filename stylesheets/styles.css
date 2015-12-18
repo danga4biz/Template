@@ -431,22 +431,22 @@ footer {
         width: 1024px;
 	}
 
-    	#topLineWrapper
+ #topLineWrapper
 	{
-		float: left; 
-        	background: {color:topLineWrapperBGColor};
-/*			background: #B9DAF5; */
+	float: left; 
+       	background: {color:topLineWrapperBGColor};
+			background: #B9DAF5; 
 /*			color: $(topLineWrapper.TXT.Color);*/
 /*			color: #FFFFFF; */
 /*			clear: both; */
-			width: 100%;
-			font-size: 80%;
+		width: 100%;
+		font-size: 80%;
 /*			font-weight: bold; */
-			font-family: "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+		font-family: "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
 /****			text-transform:uppercase;****/
-            overflow: auto;
-            display: inline-block;
-            border-color: white;
-            border-bottom-style: solid;
-            border-width: 2px;
-		}
+		overflow: auto;
+		display: inline-block;
+		border-color: white;
+		border-bottom-style: solid;
+		border-width: 2px;
+	}
